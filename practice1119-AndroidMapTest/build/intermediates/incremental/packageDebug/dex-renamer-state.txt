@@ -1,0 +1,7 @@
+#Sat Nov 19 17:30:13 KST 2016
+base.0=C\:\\Users\\Koo\\AndroidStudioProjects\\MySBS04\\practice1119-AndroidMapTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_db347759a0e3a9e33667d0c6df3916ee3a200fbb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Koo\\AndroidStudioProjects\\MySBS04\\practice1119-AndroidMapTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7ee52c914a6aff50f7d08252bf638eae39d43032\\classes.dex
+base.1=C\:\\Users\\Koo\\AndroidStudioProjects\\MySBS04\\practice1119-AndroidMapTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7ee52c914a6aff50f7d08252bf638eae39d43032
+file.0=C\:\\Users\\Koo\\AndroidStudioProjects\\MySBS04\\practice1119-AndroidMapTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_db347759a0e3a9e33667d0c6df3916ee3a200fbb\\classes.dex
